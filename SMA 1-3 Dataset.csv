@@ -1,0 +1,16 @@
+﻿Post_ID,Post_Date,Content_Type,Content,Hashtags,Location,Likes,Comments,Shares,Followers,Mentioned_Entities
+1,01-04-2025,Text,"""Loving the weather today!""",#weather #sunny,New York,120,10,5,1500,@user123
+2,02-04-2025,Image,"""Check out this amazing sunset!""",#sunset #beautiful,Los Angeles,230,20,10,2000,@sunlover
+3,02-04-2025,Video,"""How to make a perfect coffee""",#coffee #tutorial,Chicago,150,30,15,1800,@coffeeaddict
+4,03-04-2025,Text,"""Just finished a 5K run!""",#fitness #running,New York,180,40,20,1700,@runwithme
+5,03-04-2025,Image,"""Delicious homemade pizza!""",#foodie #pizza,Miami,300,50,30,2200,@foodiegram
+6,04-04-2025,Text,"""Trying out a new workout routine!""",#fitness #workout,San Francisco,250,35,25,2100,@fitguru
+7,04-04-2025,Video,"""Travel vlog: Exploring Paris!""",#travel #vlog,Paris,500,100,50,3000,@traveller123
+8,05-04-2025,Text,"""Just finished reading an amazing book!""",#reading #bookworm,London,150,10,8,1400,@booklover
+9,05-04-2025,Image,"""Morning workout routine""",#morning #workout,Toronto,220,25,12,1900,@morningfitness
+10,06-04-2025,Text,"""Exploring the city!""",#explore #adventure,Miami,170,15,10,1600,@cityexplorer
+11,07-04-2025,Text,"""This is the worst coffee I’ve ever had!""",#bad #coffee,Chicago,10,2,1,1000,@user456
+12,08-04-2025,Image,"""I’m so tired of waiting in line all day.""",#frustration #bored,New York,5,1,0,800,@waitingforever
+13,09-04-2025,Video,"""This workout routine is too hard. I’m exhausted.""",#workout #frustrated,San Francisco,15,3,2,1200,@tiredtrainer
+14,10-04-2025,Text,"""My project got delayed again. Why can’t anything go right?""",#delayed #stress,Miami,8,1,0,950,@stressedout
+15,11-04-2025,Image,"""Why does this always happen? Nothing goes according to plan.""",#angry #mood,Los Angeles,7,2,1,900,@moodysunday
